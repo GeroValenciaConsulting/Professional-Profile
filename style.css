@@ -1,0 +1,37 @@
+body {
+    background-color: #FFFFFF;
+    background-image: linear-gradient(180deg,#1982db 10%, #10b249 60%, #a18686 85%);
+    position: relative;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 6rem;
+    padding-right: 6rem;
+}
+h3 {
+    text-align: center;
+}
+.images{
+    height: 10rem;
+    border-radius: 50%;
+}
+.tdpic {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+}
+.lastline {
+    padding-top: 4rem;
+    text-align: center;
+}
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color:white;
+    text-align: center;
+  }
+  
